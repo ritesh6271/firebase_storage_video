@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624650593074",
+    "firebase_url": "https://fir-storagevideo.firebaseio.com",
+    "project_id": "fir-storagevideo",
+    "storage_bucket": "fir-storagevideo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624650593074:android:2bbee057817ff026232d2b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_storage_video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624650593074-v33p00rhdukgo1b089oi0f40c7fb9h29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeYbr9yLmEHzWe8uio8eVqVUwFLbGdJO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624650593074-v33p00rhdukgo1b089oi0f40c7fb9h29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
